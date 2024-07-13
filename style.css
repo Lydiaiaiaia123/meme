@@ -1,18 +1,18 @@
 body {
   background-color: black;
 }
-h1 {
-  color: white;
-  font-family: "Libre Baskerville", serif;
-  font-weight: 700;
-  text-align: center;
+h1{
+  text-transform: uppercase;
+  font-size: 3rem;
 }
-p {
-  color: white;
-  text-align: center;
+.poster {
+color: white;
+font-family: "Libre Baskerville", serif;
+font-weight: 700;
+text-align: center;
+margin-top: 100px;
+margin-left: 25px;
 }
-img {
+.Meme {
   border: 5px solid white;
-  width: 50%;
-  margin-left: 25%;
 }
